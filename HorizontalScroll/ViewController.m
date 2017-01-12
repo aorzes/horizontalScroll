@@ -57,7 +57,7 @@
 }
 
 - (void)scrollViewDidEndScrollingAnimation:(UIScrollView *)scrollView {
-   [self centriraj];
+   //[self centriraj];
 }
 
 - (void)scrollViewDidEndDecelerating:(UIScrollView *)scrollView {
