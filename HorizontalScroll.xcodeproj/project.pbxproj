@@ -13,6 +13,10 @@
 		EC03C51F1E2803C400BC428A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC03C51D1E2803C400BC428A /* Main.storyboard */; };
 		EC03C5211E2803C400BC428A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC03C5201E2803C400BC428A /* Assets.xcassets */; };
 		EC03C5241E2803C400BC428A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC03C5221E2803C400BC428A /* LaunchScreen.storyboard */; };
+		EC03C52F1E280D4F00BC428A /* IMG_3616.png in Resources */ = {isa = PBXBuildFile; fileRef = EC03C52B1E280D4F00BC428A /* IMG_3616.png */; };
+		EC03C5301E280D4F00BC428A /* IMG_3618.png in Resources */ = {isa = PBXBuildFile; fileRef = EC03C52C1E280D4F00BC428A /* IMG_3618.png */; };
+		EC03C5311E280D4F00BC428A /* IMG_3619.png in Resources */ = {isa = PBXBuildFile; fileRef = EC03C52D1E280D4F00BC428A /* IMG_3619.png */; };
+		EC03C5321E280D4F00BC428A /* IMG_3620.png in Resources */ = {isa = PBXBuildFile; fileRef = EC03C52E1E280D4F00BC428A /* IMG_3620.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +30,10 @@
 		EC03C5201E2803C400BC428A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC03C5231E2803C400BC428A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC03C5251E2803C400BC428A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC03C52B1E280D4F00BC428A /* IMG_3616.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_3616.png; sourceTree = "<group>"; };
+		EC03C52C1E280D4F00BC428A /* IMG_3618.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_3618.png; sourceTree = "<group>"; };
+		EC03C52D1E280D4F00BC428A /* IMG_3619.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_3619.png; sourceTree = "<group>"; };
+		EC03C52E1E280D4F00BC428A /* IMG_3620.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_3620.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +50,10 @@
 		EC03C5081E2803C400BC428A = {
 			isa = PBXGroup;
 			children = (
+				EC03C52B1E280D4F00BC428A /* IMG_3616.png */,
+				EC03C52C1E280D4F00BC428A /* IMG_3618.png */,
+				EC03C52D1E280D4F00BC428A /* IMG_3619.png */,
+				EC03C52E1E280D4F00BC428A /* IMG_3620.png */,
 				EC03C5131E2803C400BC428A /* HorizontalScroll */,
 				EC03C5121E2803C400BC428A /* Products */,
 			);
@@ -138,9 +150,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC03C5321E280D4F00BC428A /* IMG_3620.png in Resources */,
+				EC03C5301E280D4F00BC428A /* IMG_3618.png in Resources */,
 				EC03C5241E2803C400BC428A /* LaunchScreen.storyboard in Resources */,
 				EC03C5211E2803C400BC428A /* Assets.xcassets in Resources */,
 				EC03C51F1E2803C400BC428A /* Main.storyboard in Resources */,
+				EC03C5311E280D4F00BC428A /* IMG_3619.png in Resources */,
+				EC03C52F1E280D4F00BC428A /* IMG_3616.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
